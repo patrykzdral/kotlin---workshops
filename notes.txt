@@ -1,0 +1,34 @@
+Teoria na warsztat:
+	- https://pawelwlodarski.gitbooks.io/kotlin-workshops/content/chapter1/intro.html
+
+Warsztaty:
+ 	- object - klasa ze statycznymi metodami
+	- companion object - dobry do metod fabrycznych
+	- kotlinTest - niepolecany na produkcji, dobry do uczenia sie
+	- shouldBe w kotlintest - dobrze uzyty infix
+	- sealed ogranicza dziedziczenie do pliku w ktorym jestesmy	
+	- slowa klucze, np. out, in (doczytac)
+	- scala in depth
+	- coursera - kurs kotlina (prowadz¹ca)
+	- effective java
+	- w kotlinie klasy sa finalne (!= open)
+	- spring functional api
+	- extended function - dodawanie metody do dowolnego typu
+	- dls vs zwykla lambda z IT
+	- infix np. or pozwala ograniczyc zagniezdzona strukture nawiasow
+	- przyklad dsla (patternu) - build w gradle'u
+	- courutines?
+	- generyki in/out - obczaic najpierw w scali (przyklady z ciasteczkami? XD)
+	- lepsza wspolpraca z adnotacjami javy w kotlinie niz np w scali
+
+Przydatne linki i projekty:
+	- https://exercism.io/ 
+	- https://kotlinlang.org/docs/tutorials/koans.html
+	- obczajaæ androidowe projekty - najbardziej dojrza³e (Google Workshops)
+	- projekty typu Spring, Ktor
+	- https://www.manning.com/meap-catalog - ksi¹¿ki
+	- javalin (web apps for java and kotlin)
+
+Ksi¹¿ki:
+	- The Joy of Kotlin [MEAP] (manning coupon - zbizki na 50%)
+	- Kotlin in Action (* in Action)
